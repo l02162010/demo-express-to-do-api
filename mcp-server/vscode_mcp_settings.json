@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "todo": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "--prefix",
+        "/Users/austin/Documents/sideProject/express-to-do-api/mcp-server",
+        "tsx",
+        "/Users/austin/Documents/sideProject/express-to-do-api/mcp-server/src/index.ts"
+      ],
+      "env": {
+        "TODO_API_URL": "http://localhost:3000"
+      }
+    }
+  }
+}

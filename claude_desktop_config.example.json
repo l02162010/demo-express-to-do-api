@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "todo": {
+      "command": "node",
+      "args": [
+        "/Users/austin/Documents/sideProject/express-to-do-api/mcp-server/build/index.js"
+      ],
+      "env": {
+        "TODO_API_URL": "http://localhost:3000"
+      }
+    }
+  }
+}
